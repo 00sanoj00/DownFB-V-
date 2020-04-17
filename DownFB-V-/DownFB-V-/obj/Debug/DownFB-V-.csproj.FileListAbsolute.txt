@@ -1,2 +1,25 @@
 C:\Users\Sanoj\AppData\Local\Temporary Projects\DownFB-V-\bin\Debug\DownFB-V-.exe.config
 D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\DownFB-V-.exe.config
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\DownFB-V-.exe
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\DownFB-V-.pdb
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\obj\Debug\DownFB-V-.csprojResolveAssemblyReference.cache
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\obj\Debug\DownFB_V_.Main.resources
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\obj\Debug\DownFB_V_.Properties.Resources.resources
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\obj\Debug\DownFB-V-.csproj.GenerateResource.Cache
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\obj\Debug\DownFB-V-.exe
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\obj\Debug\DownFB-V-.pdb
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\IronPython.dll
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\IronPython.Modules.dll
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\IronPython.SQLite.dll
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\IronPython.Wpf.dll
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\Microsoft.Dynamic.dll
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\Microsoft.Scripting.dll
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\IronPython.xml
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\IronPython.Modules.xml
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\IronPython.SQLite.xml
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\IronPython.Wpf.xml
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\Microsoft.Dynamic.xml
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\Microsoft.Scripting.xml
+D:\github\DownFB-V-\DownFB-V-\DownFB-V-\bin\Debug\Microsoft.Scripting.Metadata.xml
